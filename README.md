@@ -40,3 +40,5 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 mit
 
 # comment for test push to git
+# insert comment line 2 for check git extension on visual code
+# commemt 3 for test to push commit to develop branch
